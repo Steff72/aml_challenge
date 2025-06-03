@@ -10,6 +10,7 @@ matplotlib = "*"
 seaborn = "*"
 geopandas = "*"
 imblearn = "*"
+xgboost = "*"
 
 [dev-packages]
 
