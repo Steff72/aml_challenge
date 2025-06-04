@@ -11,6 +11,8 @@ seaborn = "*"
 geopandas = "*"
 imblearn = "*"
 xgboost = "*"
+dalex = "*"
+matplotlib-venn = "*"
 
 [dev-packages]
 
